@@ -1,0 +1,28 @@
+title: Ziheng Liu
+description: |
+  Ph.D. Student (2022- )<br>
+  University of Utah<br>
+  <br>
+  Research Interests:<br>
+  • Physics-based Simulation<br>
+  • Motion Capture<br>
+  • Computer Graphics<br>
+  <br>
+  📧 first_name.last_name at utah dot edu<br>
+  📍 3335 Merrill Engineering Building @ UofU<br>
+  <br>
+  Links:<br>
+  <a href="https://scholar.google.com/citations?user=vjHmflgAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" height="20"></a><br>
+  <a href="https://orcid.org/0009-0008-5031-507"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" height="20"></a><br>
+  <a href="https://www.linkedin.com/in/zihengliu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20"></a><br>
+  <br>
+
+logo: /me.jpg
+show_downloads: false
+
+# Theme
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
