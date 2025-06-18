@@ -20,9 +20,28 @@ description: |
 logo: /me.jpg
 show_downloads: false
 
+author:
+  name: Ziheng Liu
+  avatar: /me.jpg
+
+social:
+  name: Ziheng Liu
+  links:
+    - "https://www.linkedin.com/in/zihengliu/"
+    - "https://scholar.google.com/citations?user=vjHmflgAAAAJ"
+    - "https://orcid.org/0009-0008-5031-507"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /me.jpg
+
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
 
 # Plugins
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
