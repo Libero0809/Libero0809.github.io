@@ -40,3 +40,8 @@ I am a Ph.D. student at Kahlert School of Computing, the **University of Utah**,
 > Dagang Li, Rong Du, **Ziheng Liu**, Tong Yang, Bin Cui  
 > *2019 IEEE 35th International Conference on Data Engineering (ICDE)*  
 
+### Open Source Project
+> <img src="genesis.png" alt="Genesis" width="60%">  
+>
+> Contributed to Genesis, a physics platform designed for general-purpose Robotics/Embodied AI/Physical AI applications.  
+> [🔗 Project Page](https://github.com/Genesis-Embodied-AI/Genesis)  
