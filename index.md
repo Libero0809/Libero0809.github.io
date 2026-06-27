@@ -1,11 +1,18 @@
 ---
 layout: default
-title: Ziheng Liu - Ph.D. Student
+title: Ziheng Liu
 ---
 
-I am a Ph.D. student at Kahlert School of Computing, the **University of Utah**, starting from 2022. I am co-advised by Professor [<em>Jenny Lin</em>](https://jlin98.github.io/) and Professor [<em>Cem Yuksel</em>](http://www.cemyuksel.com/). Before that, I was managed by Professor [<em>Yin Yang</em>](https://yangzzzy.github.io/). <br><br> I grew up in Shanghai, China, and received my Bachelor's Degree in Computer Science from Peking University, China in 2020. Before moving to the U of U and changing my research area to computer graphics in 2022 Fall, I was studying computer networks at Georgia Tech.
+I am currently a Physics Engine Development Engineer at Tesla Optimus🤖 in Palo Alto, CA. I graduated and received my Ph.D. degree from Kahlert School of Computing, the **University of Utah** in 2026. I was co-advised by Professor [<em>Jenny Lin</em>](https://jlin98.github.io/) and Professor [<em>Cem Yuksel</em>](http://www.cemyuksel.com/). Before that, I was advised by Professor [<em>Yin Yang</em>](https://yangzzzy.github.io/). <br><br> I grew up in Shanghai, China, and received my Bachelor's Degree in Computer Science from Peking University, China in 2020. Before moving to the U of U and changing my research area to computer graphics in 2022 Fall, I was studying computer networks at Georgia Tech.
 
 ### Publications
+
+> <img src="mocap_16_9.jpg" alt="mocap" width="60%">
+> 
+> **High-Fidelity 4D Cloth Capture Pipeline with a Two-Level Pattern**  
+> **Ziheng Liu**, Anka He Chen, Shu Chen, Yin Yang, Cem Yuksel, Jenny Han Lin  
+> *ACM Transactions on Graphics (SIGGRAPH), 2026* 
+> [🔗 Project Page](https://graphics.cs.utah.edu/research/projects/two-level-cloth-capture-pattern/)  
 
 > <img src="p3d.jpeg" alt="P3D" width="60%">
 > 
